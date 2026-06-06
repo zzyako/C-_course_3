@@ -1,0 +1,15 @@
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\bin\Debug\net48\ReflectionApp.exe.config
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\bin\Debug\net48\ReflectionApp.exe
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\bin\Debug\net48\ReflectionApp.pdb
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\ReflectionApp.csproj.AssemblyReference.cache
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\Views\MainWindow.baml
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\Views\MainWindow.g.cs
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\App.g.cs
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\ReflectionApp_MarkupCompile.cache
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\ReflectionApp.g.resources
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\ReflectionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\ReflectionApp.AssemblyInfoInputs.cache
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\ReflectionApp.AssemblyInfo.cs
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\ReflectionApp.csproj.CoreCompileInputs.cache
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\ReflectionApp.exe
+C:\Users\ArtyomMak\Desktop\task3\ReflectionApp\obj\Debug\net48\ReflectionApp.pdb

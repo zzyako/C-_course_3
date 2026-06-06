@@ -1,0 +1,9 @@
+C:\Users\ArtyomMak\Desktop\task3\ClassLibrary\bin\Debug\net48\ClassLibrary.dll
+C:\Users\ArtyomMak\Desktop\task3\ClassLibrary\bin\Debug\net48\ClassLibrary.pdb
+C:\Users\ArtyomMak\Desktop\task3\ClassLibrary\obj\Debug\net48\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ArtyomMak\Desktop\task3\ClassLibrary\obj\Debug\net48\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArtyomMak\Desktop\task3\ClassLibrary\obj\Debug\net48\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\ArtyomMak\Desktop\task3\ClassLibrary\obj\Debug\net48\ClassLibrary.AssemblyInfo.cs
+C:\Users\ArtyomMak\Desktop\task3\ClassLibrary\obj\Debug\net48\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ArtyomMak\Desktop\task3\ClassLibrary\obj\Debug\net48\ClassLibrary.dll
+C:\Users\ArtyomMak\Desktop\task3\ClassLibrary\obj\Debug\net48\ClassLibrary.pdb
